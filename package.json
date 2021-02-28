@@ -1,8 +1,11 @@
 {
-  "name": "TZLib",
+  "name": "tzlib",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/SirTenzin/TZLib.git"
+  },
   "dependencies": {},
   "scripts": {
     "dev": "nodemon test/index.test.js"
